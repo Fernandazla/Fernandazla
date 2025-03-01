@@ -71,7 +71,7 @@ Me chamo Fernanda Lacerda de Azevedo, tenho 20 anos e sou natural de Goiás. Atu
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10 px;" 
+    style="padding-right: 9 px;" 
     src="https://github-readme-stats.vercel.app/api?username=Fernandazla&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
