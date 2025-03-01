@@ -30,7 +30,7 @@ Me chamo Fernanda Lacerda de Azevedo, tenho 20 anos e sou natural de Goiás. Atu
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10 px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
@@ -38,7 +38,7 @@ Me chamo Fernanda Lacerda de Azevedo, tenho 20 anos e sou natural de Goiás. Atu
     alt="CSS" 
     title="CSS"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10 px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
@@ -46,7 +46,7 @@ Me chamo Fernanda Lacerda de Azevedo, tenho 20 anos e sou natural de Goiás. Atu
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10 px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
@@ -56,7 +56,7 @@ Me chamo Fernanda Lacerda de Azevedo, tenho 20 anos e sou natural de Goiás. Atu
     alt="Git" 
     title="Git"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10 px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
@@ -71,7 +71,7 @@ Me chamo Fernanda Lacerda de Azevedo, tenho 20 anos e sou natural de Goiás. Atu
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10 px;" 
     src="https://github-readme-stats.vercel.app/api?username=Fernandazla&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
