@@ -6,7 +6,7 @@ Me chamo Fernanda Lacerda de Azevedo, tenho 20 anos e sou natural de Goiás. Atu
 
 <p align="left">
   
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Fernandazla?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
