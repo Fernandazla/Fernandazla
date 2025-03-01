@@ -5,7 +5,6 @@
 Me chamo Fernanda Lacerda de Azevedo, tenho 20 anos e sou natural de Goiás. Atualmente, estou cursando Engenharia de Software.
 
 <p align="left">
-  
     <a href="https://github.com/Fernandazla?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
